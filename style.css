@@ -21,3 +21,9 @@
 .box8 { background:#1e90ff;}
 .box9 { background:#c56cf0;}
 .box10 { background:#18dcff;}
+
+.container{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: row;
+}
