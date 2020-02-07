@@ -23,7 +23,10 @@
 .box10 { background:#18dcff;}
 
 .container{
-
+    height: 100vh;
     display: flex;  
-
+    align-items: center; 
+    align-items: baseline;
+    align-items: flex-end;
+    align-items: stretch;
 }
